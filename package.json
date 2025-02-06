@@ -1,0 +1,26 @@
+{
+  "name": "projekat",
+  "version": "1.0.0",
+  "description": "projekat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpeedyBGD/Projekat.git"
+  },
+  "author": "Drazen Manojlovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpeedyBGD/Projekat/issues"
+  },
+  "homepage": "https://github.com/SpeedyBGD/Projekat#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "node": "^23.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
